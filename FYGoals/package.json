@@ -1,0 +1,21 @@
+{
+  "name": "fygoals",
+  "version": "1.0.0",
+  "description": "SMART Goal assessment for First Year students.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SMART",
+    "goals"
+  ],
+  "author": "Chris Johnson, Skyfarm Education",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1",
+    "surveyjs-editor": "^1.0.4"
+  }
+}
